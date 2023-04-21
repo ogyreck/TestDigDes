@@ -1,0 +1,15 @@
+D:\Project\TestProjectDigDes\bin\Debug\net6.0\TestProjectDigDes.exe
+D:\Project\TestProjectDigDes\bin\Debug\net6.0\TestProjectDigDes.deps.json
+D:\Project\TestProjectDigDes\bin\Debug\net6.0\TestProjectDigDes.runtimeconfig.json
+D:\Project\TestProjectDigDes\bin\Debug\net6.0\TestProjectDigDes.dll
+D:\Project\TestProjectDigDes\bin\Debug\net6.0\TestProjectDigDes.pdb
+D:\Project\TestProjectDigDes\obj\Debug\net6.0\TestProjectDigDes.csproj.AssemblyReference.cache
+D:\Project\TestProjectDigDes\obj\Debug\net6.0\TestProjectDigDes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\TestProjectDigDes\obj\Debug\net6.0\TestProjectDigDes.AssemblyInfoInputs.cache
+D:\Project\TestProjectDigDes\obj\Debug\net6.0\TestProjectDigDes.AssemblyInfo.cs
+D:\Project\TestProjectDigDes\obj\Debug\net6.0\TestProjectDigDes.csproj.CoreCompileInputs.cache
+D:\Project\TestProjectDigDes\obj\Debug\net6.0\TestProjectDigDes.dll
+D:\Project\TestProjectDigDes\obj\Debug\net6.0\refint\TestProjectDigDes.dll
+D:\Project\TestProjectDigDes\obj\Debug\net6.0\TestProjectDigDes.pdb
+D:\Project\TestProjectDigDes\obj\Debug\net6.0\TestProjectDigDes.genruntimeconfig.cache
+D:\Project\TestProjectDigDes\obj\Debug\net6.0\ref\TestProjectDigDes.dll
